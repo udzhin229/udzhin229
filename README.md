@@ -76,7 +76,3 @@
 <p align="left">- 💻 Web Developer (WordPress / WooCommerce / Shopify)<br>- 🧠 3+ years of freelance experience (since 2022)<br>- ⚙️ Focused on clean, maintainable, production-ready code<br>- 🚀 Experience with both CMS-based and modern JS projects<br>- 📚 Constantly learning through documentation and real projects</p>
 
 ###
-
-<img src="https://raw.githubusercontent.com/udzhin229/udzhin229/output/snake.svg" alt="Snake animation" />
-
-###
