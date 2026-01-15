@@ -73,10 +73,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udzhin229&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udzhin229&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=udzhin229&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<p align="left">- 💻 Web Developer (WordPress / WooCommerce / Shopify)<br>- 🧠 3+ years of freelance experience (since 2022)<br>- ⚙️ Focused on clean, maintainable, production-ready code<br>- 🚀 Experience with both CMS-based and modern JS projects<br>- 📚 Constantly learning through documentation and real projects</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/udzhin229/udzhin229/output/snake.svg" alt="Snake animation" />
 
 ###
